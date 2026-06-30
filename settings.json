@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Factions-CaSE.aternos.me",
     "port":44217,
-    "version": "1.20.11",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
