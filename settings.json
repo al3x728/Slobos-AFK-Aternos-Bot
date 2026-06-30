@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Factions-CaSE.aternos.me",
+    "port":44217,
     "version": "",
     "try-creative": false
   },
