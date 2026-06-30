@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Factions-CaSE.aternos.me",
-    "port":44217,
+    "port": 44217,
     "version": "1.21.11",
     "try-creative": false
   },
